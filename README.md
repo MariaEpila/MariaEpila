@@ -24,5 +24,7 @@ Imagen:
 - [x] Tarea 2
 - [ ] Tarea 3
 
+Enlace:
+[git.md](./git.md)
 ---
 [^1] Nota al pie
